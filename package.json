@@ -96,6 +96,7 @@
     }
   },
   "dependencies": {
+    "@ckeditor/ckeditor5-react": "^3.0.2",
     "@ckeditor/ckeditor5-word-count": "^26.0.0"
   }
 }
